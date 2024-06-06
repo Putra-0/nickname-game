@@ -7,7 +7,7 @@ Karena dari Codashop request dan parsing data nya lebih ribet, maka dibuatlah AP
 ## Self Deploy
 Kamu bisa langsung fork aja repo ini, atau bisa tekan tombol dibawah ini (jangan lupa github secrets nya di seting)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ihsangan/valid)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Putra-0/nickname-game)
 ## Endpoint
 ```
 https://api.isan.eu.org/nickname/
